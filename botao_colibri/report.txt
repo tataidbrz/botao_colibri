@@ -1,0 +1,47 @@
+Informação: Processando o símbolo 'C1:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C2:'.
+Informação: Processando o símbolo 'C3:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C4:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C5:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C6:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C7:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C8:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C10:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C11:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C12:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C13:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C15:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'C16:Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder'.
+Informação: Processando o símbolo 'D1:colibri-v4:WL-SFCD_0805'.
+Informação: Processando o símbolo 'GND_TP1:'.
+Informação: Processando o símbolo 'I2C_SCL_TP1:'.
+Informação: Processando o símbolo 'I2C_SDA_TP1:'.
+Informação: Processando o símbolo 'IC1:colibri-v4:VCNL36826M'.
+Informação: Processando o símbolo 'J1:colibri-v4:GCT_USB4970-00-A_REVA'.
+Informação: Processando o símbolo 'J2:Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical'.
+Informação: Processando o símbolo 'J3:'.
+Informação: Processando o símbolo 'L1:Inductor_SMD:L_1210_3225Metric'.
+Informação: Processando o símbolo 'LS1:colibri-v4:SPKR_PKMCS0909E4000-R1'.
+Informação: Processando o símbolo 'MK1:Sensor_Audio:Knowles_SPH0645LM4H-6_3.5x2.65mm'.
+Informação: Processando o símbolo 'R1:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R2:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R3:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R4:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R5:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R6:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R7:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R8:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R12:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R13:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'R14:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Informação: Processando o símbolo 'SW1:colibri-v4:B3F-3122'.
+Informação: Processando o símbolo 'U1:colibri-v4:ME54BS12_V1.0'.
+Informação: Processando o símbolo 'U2:colibri-v4:BGA-35_7x5_3.077x2.3775mm'.
+Informação: Processando o símbolo 'U3:colibri-v4:LGA-14L_STM'.
+Informação: Processando o símbolo 'VBATT_TP1:'.
+Informação: Processando o símbolo 'VBUS_TP1:'.
+Informação: Processando o símbolo 'VDDA_TP1:'.
+Informação: Processando o símbolo 'VDD_TP1:'.
+
+
+Informação: Total de avisos: 0, erros: 0.

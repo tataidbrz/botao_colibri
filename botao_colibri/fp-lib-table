@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "colibri-v4") (type "KiCad") (uri "${KIPRJMOD}/../lib/colibri-v4.pretty") (options "") (descr "Colibri v4 project footprints"))
+)
