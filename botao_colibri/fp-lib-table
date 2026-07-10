@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "botao_colibri") (type "KiCad") (uri "${KIPRJMOD}/../lib/botao_colibri.pretty") (options "") (descr "Botao Colibri project footprints"))
+  (lib (name "colibri-v4") (type "KiCad") (uri "${KIPRJMOD}/../lib/colibri-v4.pretty") (options "") (descr "Colibri v4 shared footprints (ME54 and others)"))
 )

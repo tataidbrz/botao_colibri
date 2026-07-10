@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "botao_colibri") (type "KiCad") (uri "${KIPRJMOD}/../lib/botao_colibri.kicad_sym") (options "") (descr "Botao Colibri project components"))
+  (lib (name "colibri-v4") (type "KiCad") (uri "${KIPRJMOD}/../lib/colibri-v4.kicad_sym") (options "") (descr "Colibri v4 shared components (ME54 and others)"))
 )
