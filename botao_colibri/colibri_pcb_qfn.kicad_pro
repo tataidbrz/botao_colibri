@@ -76,16 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "malformed_courtyard|131023952|106536135|6b45facb-592f-4392-9238-0c4ec0eb9e9b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|131023952|117036135|6b45facb-592f-4392-9238-0c4ec0eb9e9b|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -692,7 +683,7 @@
         "uuid": "54ab9dfb-c4c2-4dcc-993f-363418ec4c96"
       }
     ],
-    "used_designators": "VDD_TP1,C4-7,#PWR10-13,FL1",
+    "used_designators": "#PWR2,J4",
     "variants": []
   },
   "sheets": [
