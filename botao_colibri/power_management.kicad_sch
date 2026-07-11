@@ -3601,7 +3601,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 80.01) (xy 91.44 80.01)
+			(xy 87.63 81.28) (xy 88.9 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3811,6 +3811,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 81.28) (xy 88.9 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79cfb06b-7d35-4f67-b8bb-27a052256d86")
+	)
+	(wire
+		(pts
 			(xy 115.57 39.37) (xy 118.11 39.37)
 		)
 		(stroke
@@ -3858,6 +3868,16 @@
 			(type default)
 		)
 		(uuid "826871a3-6295-46df-9a6c-4ef384445dc8")
+	)
+	(wire
+		(pts
+			(xy 88.9 80.01) (xy 91.44 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83316d89-6b7d-4bc7-b5d8-bfeadeed4401")
 	)
 	(wire
 		(pts
@@ -4401,7 +4421,7 @@
 	)
 	(global_label "PVDD"
 		(shape input)
-		(at 87.63 80.01 180)
+		(at 87.63 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4411,7 +4431,7 @@
 		)
 		(uuid "803c90b5-0a5b-43f0-9abf-b94955642066")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.7462 80.01 0)
+			(at 79.7462 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
